@@ -1,0 +1,10 @@
+{
+  "name": "kixparadigm",
+  "version": "1.0.0",
+  "description": "kixParadigm — AI 自编排最小范式（Devin 移植版）：常驻认知层 + kixpower 多智能体编排（dev/qa/reviewer/reviewer-cross/producer subagent profiles）+ 机械门禁 hooks + 17 个方法论 skills + 4 个 /kixpower-* 命令",
+  "author": { "name": "kixparadigm contributors (Devin port)" },
+  "license": "MIT",
+  "repository": "https://github.com/olicesx/kixparadigm",
+  "keywords": ["kixparadigm", "kixpower", "orchestration", "subagents", "guards"],
+  "skills": ["skills"]
+}
